@@ -1,7 +1,5 @@
 # AFD
-#
 Algoritmo que verifica a validade de entradas para um autômato finito determinístico desejado.
-#
 ## Funcionamento
 O algoritmo funciona baseado no arquivo de entrada, é necessário montar o AFD através do txt incial, onde é preciso seguir o seguinte padrao: 
 ## Padrão do txt 
